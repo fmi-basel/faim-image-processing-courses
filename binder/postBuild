@@ -3,3 +3,4 @@ jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable hide_input/main
 
 # trust notebooks so that they can run initialization cells
+jupyter trust 01-image-processing-fundamentals.ipynb
